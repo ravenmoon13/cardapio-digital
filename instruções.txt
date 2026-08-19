@@ -1,0 +1,17 @@
+		para rodar a pagina html
+
+colouqe a pasta cardapio dentro da pasta htdocs que está localizada dentro da pasta do xampp 
+
+apos isso ligue apache e mysql para funcionar 
+
+e escreva isso no seu navegador http://localhost/cardapio/novo.html
+
+e agora escreva uma sugestão e veja o resultado no banco de dados 
+
+
+
+		para abrir o banco de dados
+para isso abra o localhost e aperte na opção de importar e coloque o arquivo cardapio_escolar
+
+
+OBESERVAÇÃO: não da para eviar sugestões se o banco de dados não estiver criado
