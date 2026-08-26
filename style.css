@@ -105,11 +105,14 @@ nav a:hover{
 }
 
 /* ================= TABS ================= */
-.tab{ display:none; }
+.tab{ 
+   display:none;
+   flex:1;}
+
 .tab.active{
    display: flex;
   flex-direction: column;
-  flex: 1;
+  justify-content: center;
 }
 
 @keyframes subeEEntra{
