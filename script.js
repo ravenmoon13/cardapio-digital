@@ -36,7 +36,7 @@ function processarEnvio() {
     }
 
     // 2. Envia para a API do SheetDB usando JSON (Substituiu o PHP/XAMPP)
-    fetch('https://sheetdb.io/api/v1/xws4dr2lbvt2s', {
+    fetch('https://sheetdb.io/api/v1/5kj2p6x763fa1', {
         method: 'POST',
         headers: {
             'Accept': 'application/json',
