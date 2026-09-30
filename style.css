@@ -8,7 +8,7 @@
   --cream:       #fdfaf3;   /* prato / fundo */
   --mustard:     #e9330e;   /* laranja — destaques */
   --tomato:      #e9330e;   /* laranja — acento / CTA */
-  --leaf:        #2ecc71;   /* verde — vegetariano / sugestão */
+  --leaf:        #560000;   /* verde — vegetariano / sugestão */
   --ink:         #2b2320;   /* texto principal */
   --ink-soft:    #5c5450;   /* texto secundário */
   --paper:       #ffffff;
@@ -458,13 +458,13 @@ footer {
   font-family:'Fredoka', sans-serif;
   border-radius:16px;
   cursor:pointer;
-  box-shadow:0 6px 0 #1f8f4e;
+  box-shadow:0 6px 0 #2e0000;
   transition:0.15s;
 }
 
 .btn-sugestao:hover{
   transform:translateY(2px);
-  box-shadow:0 4px 0 #1f8f4e;
+  box-shadow:0 4px 0 #2e0000;
 }
 
 /* Overlay do modal — estilo "comanda de pedido" */
